@@ -3,16 +3,20 @@
     ViewBag.Title = "Register";
 }
 <h2>Register</h2>
-    <form action="/Home/Welcome" method="get">
+<form action="/Home/Welcome" method="post">
 
-       First Name <input type="text" name="firstName" />
-       Last Name <input type="text" name="lastName" />
-       Email <input type="text" name="email" />
-       Phone Number <input type="text" name="phoneNumber" />
-       Password <input type="text" name="password" />
-        <input type="Submit" name="Push me"/>
+    User Name <input type="text" name="userInput" required />
+    First Name <input type="text" name="firstName" required />
+    Middle Name <input type="text" name="middleName" required />
+    Last Name <input type="text" name="lastName" required />
+    Favorite Animal <input type="text" name="favoriteAnimal" required />
+    Email <input type="email" name="email" required />
+    Phone Number <input type="text" name="phoneNumber" required />
+    Password <input type="password" name="password" required />
+    <input type="Submit" name="Push me" />
 
-    </form>
+
+</form>
 
 
 
