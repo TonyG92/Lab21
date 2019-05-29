@@ -73,3 +73,4 @@ C:\Users\conqu\source\repos\Lab21\Lab21\obj\Debug\Lab22.csproj.CoreCompileInputs
 C:\Users\conqu\source\repos\Lab21\Lab21\obj\Debug\Lab22.csproj.CopyComplete
 C:\Users\conqu\source\repos\Lab21\Lab21\obj\Debug\Lab21.dll
 C:\Users\conqu\source\repos\Lab21\Lab21\obj\Debug\Lab21.pdb
+C:\Users\conqu\source\repos\Lab21\Lab21\obj\Debug\Lab22.csprojAssemblyReference.cache
